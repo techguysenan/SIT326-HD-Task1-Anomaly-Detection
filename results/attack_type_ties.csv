@@ -1,0 +1,2 @@
+Attack Type,Samples,Detection Rate,Tied Models
+Heartbleed,11,1.0,"Isolation Forest, One-Class SVM, Local Outlier Factor"

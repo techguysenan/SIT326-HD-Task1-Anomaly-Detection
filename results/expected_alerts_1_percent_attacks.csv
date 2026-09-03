@@ -1,0 +1,4 @@
+Model,True Attack Alerts,False Alerts,Total Alerts
+Isolation Forest,573,7445,8018
+One-Class SVM,592,5073,5665
+Local Outlier Factor,852,13971,14823
